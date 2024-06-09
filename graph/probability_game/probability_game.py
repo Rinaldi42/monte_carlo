@@ -52,7 +52,6 @@ class Game:
 
 game = Game(board = matriz, heaven = 8, hell = 9)
 
-
 nRounds = 40
 
 game.rounds(nRounds)
