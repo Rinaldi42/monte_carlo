@@ -1,3 +1,5 @@
+## Monty Hall
+
 # Monty Hall Problem Solution using Monte Carlo Method
 
 ## Introduction
@@ -21,6 +23,11 @@ The Monte Carlo method is a statistical technique that allows for the numerical 
 
 This code simulates the Monty Hall problem using the Monte Carlo method. It repeatedly plays the game with a large number of iterations to empirically determine the probabilities of winning by switching and by sticking with the original choice.
 
-## Usage
+## Inspiration
 
-To run the simulation, simply execute the script. You can adjust the number of iterations to see how it affects the results.
+The book The Drunkard's Walk: How Randomness Rules Our Lives 
+ISBN-10 9780307377548
+ISBN-13 978-0375424045
+
+
+ChatGPT was used to compose this text 😄
