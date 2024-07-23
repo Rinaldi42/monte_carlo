@@ -42,3 +42,5 @@ The Monte Carlo method is a statistical technique that uses random sampling to o
 ## Code
 
 The following code models the game using an adjacency matrix to represent states and transitions. The Monte Carlo method is then used to simulate the game and calculate the probabilities associated with different states and actions.
+
+O ChatGPT foi usado para compor este texto 😄
